@@ -1,4 +1,6 @@
-### Hi there 👋
+> One line of code at a time. Never stop learning. There will always first time for anything we choose in life.
+
+Hi there 👋 just starting to be more active here. I would like to build my work porfolio related to Software Quality and Testing
 
 <!--
 **azrimangsor/azrimangsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Appretiate all the support. TQ 😄
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/azrimangsor)
