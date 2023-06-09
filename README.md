@@ -1,6 +1,6 @@
 > One line of code at a time. Never stop learning. There will always first time for anything we choose in life.
 
-Hi there 👋 just starting to be more active here. I would like to build my work porfolio related to Software Quality and Testing
+Hello there! 👋 I'm excited to be more active and participate on this platform and showcase my expertise in Software Quality and Testing. As a passionate professional, I strive to deliver top-notch software solutions by ensuring rigorous testing and maintaining the highest quality standards. Join me on this journey as I build my work portfolio and contribute to the world of software development. Let's connect and collaborate!
 
 <!--
 **azrimangsor/azrimangsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
